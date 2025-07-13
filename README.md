@@ -74,9 +74,3 @@ Make sure the image path is correct and the image format is supported (JPG or PN
 
 ---
 
-## License
-
-This project is licensed under the MIT License.  
-See the `LICENSE` file for full details.
-
----
